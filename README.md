@@ -2,6 +2,8 @@
 
 **doxcord** is an OSINT tool designed to scan Discord servers for social media links containing tracking parameters. The tool can identify Instagram, TikTok, and Facebook links that include tracking identifiers, and organize them by user and server.
 
+*This tool was developed as part of the rump for the OSINT-FR MeetUp in Bordeaux on 22/05/2025. You can find the slides by clicking: [here](https://github.com/boringthegod/doxcord/blob/master/slides_MeetUp_OSINT-FR_Bordeaux_22052025.pdf)*
+
 ## Features
 
 - Scan a specific Discord server or all servers you belong to
